@@ -8,7 +8,8 @@ public class TestGitHub {
 	public static void main(String[] args) {
 		System.out.println("Trabalho sobre GitHub!");
 		
-		System.out.println("Trabalho motificado por Allan!");
+		System.out.println("Trabalho motificado por Casa!");
+		
 
 	}
 
